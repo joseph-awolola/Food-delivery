@@ -1,0 +1,22 @@
+.nav-bar {
+    width: 5rem;
+    min-height: 100vh;
+    height: auto;
+    background-color:#F3F3F3;
+    color: #111;
+    padding: 20px 0;
+}
+
+.icons {
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+}
+
+.icons .home:nth-child {
+    color: black;
+
+}
