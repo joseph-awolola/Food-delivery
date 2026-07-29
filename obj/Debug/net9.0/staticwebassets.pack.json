@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css",
-      "PackagePath": "staticwebassets\\client.1ypemy3202.bundle.scp.css"
+      "PackagePath": "staticwebassets\\client.v4zpzql62e.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\app.css",
@@ -11,6 +11,30 @@
     {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\images\\food.jpg",
+      "PackagePath": "staticwebassets\\images\\food.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\images\\food2.jpg",
+      "PackagePath": "staticwebassets\\images\\food2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\images\\food3.jpg",
+      "PackagePath": "staticwebassets\\images\\food3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\images\\food4.jpg",
+      "PackagePath": "staticwebassets\\images\\food4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\images\\food5.jpg",
+      "PackagePath": "staticwebassets\\images\\food5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\images\\food6.jpg",
+      "PackagePath": "staticwebassets\\images\\food6.jpg"
     },
     {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

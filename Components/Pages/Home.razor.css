@@ -20,27 +20,29 @@
     padding: 20px 30px;
 }
 
+.order-checkout h1 {
+  font-weight: bolder;
+}
+
 .food-display {
   width: 100%;
-  height: 500px;
-  background-color:#FA6401;
+  min-height: 250px;
   margin: 20px 0;
   border-radius: 10px;
+  box-sizing: border-box;
+  background-color: orange;
+
 }
 
 .search-container {
   width: 100%;
-  height: 15%;
+  min-height: 8%;
 
   border-radius: 10px;
   background-color: #F3F3F3;
   font-size: 16px;
   display: flex;
   box-sizing: border-box;
-}
-
-.search-container:active {
-  border: 2px solid #111;
 }
 
 .search-bar {
@@ -62,7 +64,6 @@
 
 .food-options {
   width: 100%;
-
   flex-direction: column;
   box-sizing: border-box;
   overflow-y: scroll;
@@ -78,7 +79,7 @@
   list-style-type: none;
   display: flex;
   justify-content: space-around;
-  font-size: 25px;
+  font-size: 16px;
 }
 
 .filter li:hover {
@@ -107,7 +108,7 @@
 }
 
 .order .img-frame {
-  height: 80%;
+  height: 60%;
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
@@ -119,4 +120,92 @@
   object-position: top center;
 }
 
+.address {
+  width: 100%;
+  height: 150px;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  /* padding: 20px 30px; */
+  font-size: .8rem;
+}
 
+.address .title {
+
+}
+
+.address .location {
+  font-size: .8rem;
+  font-weight: bolder;
+}
+
+.address p {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.orders {
+  width: 100%;
+  min-height: 200px;
+  height: auto;
+  border: 1px solid #51515175;
+  border-radius: 10px;
+  overflow: hidden;
+
+}
+
+.orders h1 {
+  padding: 10px 20px;
+}
+
+.orders .order {
+  background-color: transparent;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  flex: row;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 10px;
+  position: relative;
+}
+
+.orders .order:hover {
+  transform: translateY(0);
+  background-color: #fff;
+}
+
+.orders .order .order-image {
+  width: 120px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.order-image img {
+  width: 100%;
+}
+
+.amount table {
+  width: 100%;
+  padding-top: 20px; 
+  color: #474747f8;
+}
+
+input:focus {
+  outline: none;
+}
+.description h3 {
+  font-weight: bolder;
+}
+
+
+.price {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  font-weight: bold;
+}
