@@ -116,30 +116,26 @@
     <div class="order-section">
         <div class="address">
             <span class="title">Delivery location</span>
-            <p>3B Arowolo Street</p>
-            <span class="location">Iwaya Yaba-Lagos</span>
+            <p>@PriLocation</p>
+            <span class="location">@SecLocation</span>
         </div>
-        <div class="orders">    
-            <div class="order">
+        <div class="orders">   
+            @foreach (CartItem el in @order)
+            {
+                <div class="order">
                     <div class="order-image">
                     <img src="/images/food.jpg" alt="food image"/>
                 </div>
                 <div class="description">
-                    <h3>Title</h3>
-                    <span class="price">$12</span>
+                    <h3>@el.ItemName</h3>
+                    <span class="price">$@el.Price</span>
                 </div>
             </div>
-            <div class="order">
-                    <div class="order-image">
-                    <img src="/images/food.jpg" alt="food image"/>
-                </div>
-                <div class="description">
-                    <h3>Title</h3>
-                </div>
-            </div>
+            } 
             
         </div>
     </div>
+    <hr>
     <div class="amount">
         <table>
             <tr>
@@ -148,9 +144,39 @@
             </tr>
             <tr>
                 <td>Delivery fee</td>
-                <td>0</td>
+                <td>$ 0</td>
+            </tr>
+            <tr>
+                <td>Total</td>
+                <td>$ 56379</td>
             </tr>
         </table>
+        <hr>
+        <button class="checkout">Checkout</button>
     </div>
 </div>
 </div>
+
+@code {
+    public string PriLocation { get; set; } = "3B Arowolo Street";
+    public string SecLocation { get; set; } = "Iwaya Yaba-Lagos";
+
+    public List<CartItem> order { get; set; } = new ()
+        {
+            new CartItem("Hambuger", 1, 41.43),
+            new CartItem("Jollof rice", 1, 53.24)
+        };
+
+    public class CartItem
+    {
+        public string ItemName { get; set; }
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+        public CartItem (string itemName, int quantity, double price)
+        {
+            ItemName = itemName;
+            Quantity = quantity;
+            Price = price;
+        }
+    }
+}

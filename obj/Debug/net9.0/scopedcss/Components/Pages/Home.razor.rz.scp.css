@@ -30,7 +30,7 @@
   margin: 20px 0;
   border-radius: 10px;
   box-sizing: border-box;
-  background-color: orange;
+  background-color: #FA6401;
 
 }
 
@@ -84,7 +84,7 @@
 
 .filter li:hover[b-20kdo8w7gj] {
     cursor: pointer;
-    color: orange;
+    color: #FA6401;
 }
 
 .options-box[b-20kdo8w7gj] {
@@ -150,8 +150,6 @@
   width: 100%;
   min-height: 200px;
   height: auto;
-  border: 1px solid #51515175;
-  border-radius: 10px;
   overflow: hidden;
 
 }
@@ -200,6 +198,15 @@ input:focus[b-20kdo8w7gj] {
 }
 .description h3[b-20kdo8w7gj] {
   font-weight: bolder;
+}
+
+.checkout[b-20kdo8w7gj] {
+  width: 100%;
+  height: 50px;
+  background-color: #FA6401;
+  border: none;
+  color: #fff;
+  border-radius: 10px;
 }
 
 

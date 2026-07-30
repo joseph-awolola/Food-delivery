@@ -77,5 +77,5 @@ C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\Per
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\ref\client.dll
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\client.sourcelink.json
-C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\5wri0p13kw-v4zpzql62e.gz
-C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\dy47r3gj91-v4zpzql62e.gz
+C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\5wri0p13kw-s9dgjn96hq.gz
+C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\dy47r3gj91-s9dgjn96hq.gz
