@@ -16,7 +16,6 @@ C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\Per
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\scopedcss\bundle\client.styles.css
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\scopedcss\projectbundle\client.bundle.scp.css
-C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\0o9wd2oqee-khy4lop6wu.gz
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\3vabpd2zxg-bqjiyaj88i.gz
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\vxu366h07q-c2jlpeoesf.gz
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\1mdof3oehd-erw9l3u2r3.gz
@@ -77,5 +76,6 @@ C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\Per
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\ref\client.dll
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\client.sourcelink.json
-C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\5wri0p13kw-s9dgjn96hq.gz
-C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\dy47r3gj91-s9dgjn96hq.gz
+C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\0o9wd2oqee-b0ofpevqx1.gz
+C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\5wri0p13kw-6yxymqmfae.gz
+C:\Users\user\OneDrive\Desktop\Apps and files folder\Coding\Microsoft Course\PersonalProject\Food delivery app\client\obj\Debug\net9.0\compressed\dy47r3gj91-6yxymqmfae.gz

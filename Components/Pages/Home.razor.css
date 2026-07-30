@@ -98,12 +98,13 @@
 }
 
 .order {
-  height: 350px;
+  height: 300px;
 }
 
 .order:hover {
     transform: translateY(-2px);
     cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     
 }
 

@@ -1,182 +1,148 @@
 @page "/"
 
+@inject NavigationManager NavManager
+
 <div class="cover">
 
-<div class="home-container">
-    <div class="search-container">
-        <div class="mag-glass">
-            <i class="fa-solid fa-magnifying-glass"></i>
+    <div class="home-container">
+        <div class="search-container">
+            <div class="mag-glass">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+            <input type="text" class="search-bar" placeholder="Search for your order...">
         </div>
-        <input type="text" class="search-bar" placeholder="Search for your order...">
-    </div>
 
-    <div class="food-display">
-    </div>
-    <ul class="filter">
-        <li>All</li>
-        <li>Best sellers</li>
-        <li>Recommended</li>
-        <li>Recents</li>
-        <li>New options</li>
-    </ul>
+        <div class="food-display">
+        </div>
+        <ul class="filter">
+            <li>All</li>
+            <li>Best sellers</li>
+            <li>Recommended</li>
+            <li>Recents</li>
+            <li>New options</li>
+        </ul>
 
-    <div class="food-options">
+        <div class="food-options">
+
         
 
+            <div class="options-box">
+                @foreach (var item in @items)
+                {
+                    <div class="order" @onclick="() => GoToCategory(item.Id)">
+                    <div class="img-frame">
+                        <img src="@item.ImgUrl" alt="hello world" />
 
-        <div class="options-box">
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food.jpg" alt="hello world" />
-
+                    </div>
+                    <div class="description">
+                        <div class="title">@item.ItemName</div>
+                        <div class="description">This is a description</div>
+                        <span class="prices">@item.Price</span>
+                    </div>
                 </div>
-                <div class="description">
+                }
 
-                </div>
+
             </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food2.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food3.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food4.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food5.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food6.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food2.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food2.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-            <div class="order">
-                <div class="img-frame">
-                    <img src="/images/food2.jpg" alt="hello world" />
-
-                </div>
-                <div class="description">
-
-                </div>
-            </div>
-
         </div>
     </div>
-</div>
 
-<div class="order-checkout">
-    <h3>Order</h3>
-    <div class="order-section">
-        <div class="address">
-            <span class="title">Delivery location</span>
-            <p>@PriLocation</p>
-            <span class="location">@SecLocation</span>
-        </div>
-        <div class="orders">   
-            @foreach (CartItem el in @order)
-            {
-                <div class="order">
-                    <div class="order-image">
-                    <img src="/images/food.jpg" alt="food image"/>
-                </div>
-                <div class="description">
-                    <h3>@el.ItemName</h3>
-                    <span class="price">$@el.Price</span>
-                </div>
+    <div class="order-checkout">
+        <h3>Order</h3>
+        <div class="order-section">
+            <div class="address">
+                <span class="title">Delivery location</span>
+                <p>@PriLocation</p>
+                <span class="location">@SecLocation</span>
             </div>
-            } 
-            
+            <div class="orders">
+                @foreach (CartItem el in @order)
+                {
+                    <div class="order">
+                        <div class="order-image">
+                            <img src="/images/food.jpg" alt="food image" />
+                        </div>
+                        <div class="description">
+                            <h3>@el.ItemName</h3>
+                            <span class="price">$@el.Price</span>
+                        </div>
+                    </div>
+                }
+
+            </div>
         </div>
-    </div>
-    <hr>
-    <div class="amount">
-        <table>
-            <tr>
-                <td>Order checkout</td>
-                <td>$ 23456</td>
-            </tr>
-            <tr>
-                <td>Delivery fee</td>
-                <td>$ 0</td>
-            </tr>
-            <tr>
-                <td>Total</td>
-                <td>$ 56379</td>
-            </tr>
-        </table>
         <hr>
-        <button class="checkout">Checkout</button>
+        <div class="amount">
+            <table>
+                <tr>
+                    <td>Order checkout</td>
+                    <td>$ 23456</td>
+                </tr>
+                <tr>
+                    <td>Delivery fee</td>
+                    <td>$ 0</td>
+                </tr>
+                <tr>
+                    <td>Total</td>
+                    <td>$ 56379</td>
+                </tr>
+            </table>
+            <hr>
+            <button class="checkout">Checkout</button>
+        </div>
     </div>
-</div>
 </div>
 
 @code {
     public string PriLocation { get; set; } = "3B Arowolo Street";
     public string SecLocation { get; set; } = "Iwaya Yaba-Lagos";
 
-    public List<CartItem> order { get; set; } = new ()
-        {
-            new CartItem("Hambuger", 1, 41.43),
-            new CartItem("Jollof rice", 1, 53.24)
-        };
-
-    public class CartItem
+    public List<CartItem> order { get; set; } = new List<CartItem>()
     {
-        public string ItemName { get; set; }
-        public int Quantity { get; set; }
-        public double Price { get; set; }
-        public CartItem (string itemName, int quantity, double price)
+        new CartItem("Hambuger", 1, 41.43),
+        new CartItem("Jollof rice", 1, 53.24)
+    };
+
+    public List<CartItem> items { get; set; } = new List<CartItem>()
+    {
+        new CartItem("Hambuger", 1, 41.43)
         {
-            ItemName = itemName;
-            Quantity = quantity;
-            Price = price;
+            ImgUrl = "/images/food.jpg"
+        },
+        new CartItem("Jollof rice", 1, 53.24)
+        {
+            ImgUrl = "/images/food2.jpg"
+        },
+        new CartItem("Hambuger", 1, 41.43)
+        {
+            ImgUrl = "/images/food3.jpg"
+        },
+        new CartItem("Jollof rice", 1, 53.24)
+        {
+            ImgUrl = "/images/food4.jpg"
+        },
+        new CartItem("Hambuger", 1, 41.43)
+        {
+            ImgUrl = "/images/food5.jpg"
+        },
+        new CartItem("Jollof rice", 1, 53.24)
+        {
+            ImgUrl = "/images/food6.jpg"
         }
+    };
+
+    public string GoToCategory(Guid id)
+    {
+        Console.WriteLine("Rerouting in progress");
+        foreach (CartItem item in items)
+        {
+            if (item.Id == id)
+            {
+                NavManager.NavigateTo($"/food/{id}");
+            }
+        }
+        return "";
     }
+
+
 }

@@ -1,0 +1,54 @@
+@page "/food/{id:Guid}"
+
+<div>
+    <h1>Name: @MainItem.ItemName</h1>
+</div>
+
+@code 
+{
+    [Parameter]
+    public Guid id { get; set; }
+
+
+    public required CartItem MainItem { get; set; }
+    
+    
+    public List<CartItem> items { get; set; } = new List<CartItem>()
+    {
+        new CartItem("Hambuger", 1, 41.43)
+        {
+            ImgUrl = "/images/food.jpg"
+        },
+        new CartItem("Jollof rice", 1, 53.24)
+        {
+            ImgUrl = "/images/food2.jpg"
+        },
+        new CartItem("Hambuger", 1, 41.43)
+        {
+            ImgUrl = "/images/food3.jpg"
+        },
+        new CartItem("Jollof rice", 1, 53.24)
+        {
+            ImgUrl = "/images/food4.jpg"
+        },
+        new CartItem("Hambuger", 1, 41.43)
+        {
+            ImgUrl = "/images/food5.jpg"
+        },
+        new CartItem("Jollof rice", 1, 53.24)
+        {
+            ImgUrl = "/images/food6.jpg"
+        }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        foreach (CartItem item in items)
+        {
+            if (item.Id.Equals(id))
+            {
+                MainItem = item;
+            }
+        }
+    }
+}
