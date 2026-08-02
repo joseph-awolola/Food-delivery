@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ocsHqg+Wia5xXtzAsjFQ24TM5E+ALhbvc5RXVVorZ5A=",
+  "Hash": "rZ2FJPBL4fQrZeOv8OECDiNxzNjfvhym8wutlDC8pLo=",
   "Source": "client",
   "BasePath": "_content/client",
   "Mode": "Default",
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-6yxymqmfae.gz",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-hoyso38gbd.gz",
       "SourceId": "client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/client",
-      "RelativePath": "client#[.{fingerprint=6yxymqmfae}]?.styles.css.gz",
+      "RelativePath": "client#[.{fingerprint=hoyso38gbd}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -136,8 +136,8 @@
       "RelatedAsset": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\client.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xcpnaap22w",
-      "Integrity": "310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=",
+      "Fingerprint": "6jb5wxsk79",
+      "Integrity": "os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\client.styles.css"
@@ -290,12 +290,12 @@
       "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-6yxymqmfae.gz",
+      "Identity": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-hoyso38gbd.gz",
       "SourceId": "client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/client",
-      "RelativePath": "client#[.{fingerprint=6yxymqmfae}]!.bundle.scp.css.gz",
+      "RelativePath": "client#[.{fingerprint=hoyso38gbd}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -304,8 +304,8 @@
       "RelatedAsset": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xcpnaap22w",
-      "Integrity": "310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=",
+      "Fingerprint": "6jb5wxsk79",
+      "Integrity": "os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "6yxymqmfae",
-      "Integrity": "ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=",
+      "Fingerprint": "hoyso38gbd",
+      "Integrity": "b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\client.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "6yxymqmfae",
-      "Integrity": "ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=",
+      "Fingerprint": "hoyso38gbd",
+      "Integrity": "b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css"
@@ -2438,13 +2438,13 @@
       ]
     },
     {
-      "Route": "client.6yxymqmfae.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-6yxymqmfae.gz",
+      "Route": "client.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-hoyso38gbd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000588581519"
+          "Quality": "0.000517866390"
         }
       ],
       "ResponseHeaders": [
@@ -2454,19 +2454,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1930"
         },
         {
           "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2482,26 +2482,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
+          "Value": "W/\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6yxymqmfae"
-        },
-        {
-          "Name": "label",
-          "Value": "client.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
         }
       ]
     },
     {
-      "Route": "client.6yxymqmfae.bundle.scp.css",
+      "Route": "client.bundle.scp.css",
       "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2511,7 +2503,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6561"
+          "Value": "7731"
         },
         {
           "Name": "Content-Type",
@@ -2519,11 +2511,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
+          "Value": "\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
+        }
+      ]
+    },
+    {
+      "Route": "client.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-hoyso38gbd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI="
+        }
+      ]
+    },
+    {
+      "Route": "client.hoyso38gbd.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-hoyso38gbd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000517866390"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1930"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hoyso38gbd"
+        },
+        {
+          "Name": "label",
+          "Value": "client.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
+        }
+      ]
+    },
+    {
+      "Route": "client.hoyso38gbd.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2533,7 +2670,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yxymqmfae"
+          "Value": "hoyso38gbd"
         },
         {
           "Name": "label",
@@ -2541,13 +2678,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
         }
       ]
     },
     {
-      "Route": "client.6yxymqmfae.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-6yxymqmfae.gz",
+      "Route": "client.hoyso38gbd.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-hoyso38gbd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2556,7 +2693,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1930"
         },
         {
           "Name": "Content-Type",
@@ -2564,11 +2701,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2586,7 +2723,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yxymqmfae"
+          "Value": "hoyso38gbd"
         },
         {
           "Name": "label",
@@ -2594,18 +2731,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo="
+          "Value": "sha256-os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI="
         }
       ]
     },
     {
-      "Route": "client.6yxymqmfae.styles.css",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-6yxymqmfae.gz",
+      "Route": "client.hoyso38gbd.styles.css",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-hoyso38gbd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000588581519"
+          "Quality": "0.000517866390"
         }
       ],
       "ResponseHeaders": [
@@ -2615,15 +2752,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1930"
         },
         {
           "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2643,13 +2780,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
+          "Value": "W/\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yxymqmfae"
+          "Value": "hoyso38gbd"
         },
         {
           "Name": "label",
@@ -2657,12 +2794,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
         }
       ]
     },
     {
-      "Route": "client.6yxymqmfae.styles.css",
+      "Route": "client.hoyso38gbd.styles.css",
       "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\bundle\\client.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2672,7 +2809,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6561"
+          "Value": "7731"
         },
         {
           "Name": "Content-Type",
@@ -2680,11 +2817,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
+          "Value": "\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2694,7 +2831,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yxymqmfae"
+          "Value": "hoyso38gbd"
         },
         {
           "Name": "label",
@@ -2702,13 +2839,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
         }
       ]
     },
     {
-      "Route": "client.6yxymqmfae.styles.css.gz",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-6yxymqmfae.gz",
+      "Route": "client.hoyso38gbd.styles.css.gz",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-hoyso38gbd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2717,7 +2854,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1930"
         },
         {
           "Name": "Content-Type",
@@ -2725,11 +2862,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2747,7 +2884,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yxymqmfae"
+          "Value": "hoyso38gbd"
         },
         {
           "Name": "label",
@@ -2755,155 +2892,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo="
-        }
-      ]
-    },
-    {
-      "Route": "client.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-6yxymqmfae.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000588581519"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1698"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
-        }
-      ]
-    },
-    {
-      "Route": "client.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\client.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
-        }
-      ]
-    },
-    {
-      "Route": "client.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\dy47r3gj91-6yxymqmfae.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1698"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo="
+          "Value": "sha256-os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI="
         }
       ]
     },
     {
       "Route": "client.styles.css",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-6yxymqmfae.gz",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-hoyso38gbd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000588581519"
+          "Quality": "0.000517866390"
         }
       ],
       "ResponseHeaders": [
@@ -2913,15 +2913,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1930"
         },
         {
           "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2941,13 +2941,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
+          "Value": "W/\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
         }
       ]
     },
@@ -2962,7 +2962,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6561"
+          "Value": "7731"
         },
         {
           "Name": "Content-Type",
@@ -2970,11 +2970,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE=\""
+          "Value": "\"b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2984,13 +2984,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ooFbBYhiXYrW5a4JZnfgOeaUVzgv+ysTrPQGQidVAjE="
+          "Value": "sha256-b92ItgS+B2yBvrFp9ZobO+5WfmYtCQd9yxca0o6xLX8="
         }
       ]
     },
     {
       "Route": "client.styles.css.gz",
-      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-6yxymqmfae.gz",
+      "AssetFile": "C:\\Users\\user\\OneDrive\\Desktop\\Apps and files folder\\Coding\\Microsoft Course\\PersonalProject\\Food delivery app\\client\\obj\\Debug\\net9.0\\compressed\\5wri0p13kw-hoyso38gbd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2999,7 +2999,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1930"
         },
         {
           "Name": "Content-Type",
@@ -3007,11 +3007,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo=\""
+          "Value": "\"os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jul 2026 22:17:34 GMT"
+          "Value": "Fri, 31 Jul 2026 19:57:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3029,7 +3029,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-310tzkSHy87ln25nw3BpKS8tdjNWc27JPiFsbZQH2Xo="
+          "Value": "sha256-os0UPfoci9hE2wlRz+SRlJTiGY0cHULCMLLzsCoymBI="
         }
       ]
     },

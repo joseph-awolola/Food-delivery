@@ -1,6 +1,22 @@
 @page "/"
 
-@inject NavigationManager NavManager
+@using Shared.Models
+@using System.Net.Http
+@using System.Net.Http.Json
+@inject HttpClient Client
+
+
+@{
+    var featuredFoodItems = new[]
+    {
+        new { Image = "/images/food.jpg", Title = "Signature Burger" },
+        new { Image = "/images/food2.jpg", Title = "Spicy Jollof" },
+        new { Image = "/images/food3.jpg", Title = "Grilled Delight" },
+        new { Image = "/images/food4.jpg", Title = "Chef Special" },
+        new { Image = "/images/food5.jpg", Title = "Tasty Wrap" },
+        new { Image = "/images/food6.jpg", Title = "Fresh Bowl" }
+    };
+}
 
 <div class="cover">
 
@@ -13,6 +29,26 @@
         </div>
 
         <div class="food-display">
+            <div class="carousel-track">
+                @foreach (var item in featuredFoodItems)
+                {
+                    <div class="carousel-slide">
+                        <img src="@item.Image" alt="@item.Title" />
+                        <div class="carousel-caption">
+                            <h3>@item.Title</h3>
+                        </div>
+                    </div>
+                }
+                @foreach (var item in featuredFoodItems)
+                {
+                    <div class="carousel-slide">
+                        <img src="@item.Image" alt="@item.Title" />
+                        <div class="carousel-caption">
+                            <h3>@item.Title</h3>
+                        </div>
+                    </div>
+                }
+            </div>
         </div>
         <ul class="filter">
             <li>All</li>
@@ -97,6 +133,8 @@
     public string PriLocation { get; set; } = "3B Arowolo Street";
     public string SecLocation { get; set; } = "Iwaya Yaba-Lagos";
 
+    private List<Order>? orders;
+
     public List<CartItem> order { get; set; } = new List<CartItem>()
     {
         new CartItem("Hambuger", 1, 41.43),
@@ -131,18 +169,25 @@
         }
     };
 
-    public string GoToCategory(Guid id)
+    public void GoToCategory(Guid id)
     {
         Console.WriteLine("Rerouting in progress");
         foreach (CartItem item in items)
         {
             if (item.Id == id)
             {
-                NavManager.NavigateTo($"/food/{id}");
+                Console.WriteLine($"Going to /food/{id}");
+                @* NavManager.NavigateTo($"/food/{id}"); *@
             }
         }
-        return "";
     }
 
-
-}
+    protected override async Task OnInitializedAsync()
+    {
+        orders = await Client.GetFromJsonAsync<List<Order>>("orders");
+        foreach (var o in orders)
+        {
+            Console.WriteLine(o.Customer.Name);
+        }
+    }
+}  
